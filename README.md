@@ -15,5 +15,30 @@ I like making tools that address things like:
 - import, export, archiving, preservation, duplicate-checking (almost anything that fits in the [DataHoarder](https://www.reddit.com/r/DataHoarder/) universe)
 - RAG and sourced, semantic search with language models
 - browser extensions, customizing web experience
+---
+
+### Public Projects & Tools
+
+Here are some of the open source tools, MCP servers, and experiments I've built or maintain:
+
+#### AI & Document Processing
+- **[page-summarizer](https://github.com/aminamos/page-summarizer)** — Page-by-page document summarizer designed to eliminate context rot when processing long PDFs, DOCX, and EPUBs with LLMs.
+- **[call-desk](https://github.com/aminamos/call-desk)** — Agent that places phone calls, texts you for missing facts, and remembers answers.
+- **[prism-shot](https://github.com/aminamos/prism-shot)** — Vibecoded desktop/browser screenshot utility.
+
+#### Model Context Protocol (MCP) Servers
+- **[ente-mcp](https://github.com/aminamos/ente-mcp)** — CLI and MCP integration for Ente Photos, Auth, and Locker.
+- **[imessage-mcp](https://github.com/aminamos/imessage-mcp)** — Local MCP interface for iMessage interaction.
+- **[spotify-archive-mcp](https://github.com/aminamos/spotify-archive-mcp)** — MCP server for Spotify data export and playlist archiving.
+- **[simplefin-mcp](https://github.com/aminamos/simplefin-mcp)** — SimpleFIN banking protocol MCP integration.
+- **[windows-spacesniffer-mcp](https://github.com/aminamos/windows-spacesniffer-mcp)** — Windows disk space visualization and inspection MCP.
+- **[blazemeter-explorer-mcp](https://github.com/aminamos/blazemeter-explorer-mcp)** — BlazeMeter performance testing explorer MCP server.
+
+#### Web & Cloudflare Edge Tools
+- **[linkgrove](https://github.com/aminamos/linkgrove)** — Lightweight bookmarking and link collection tool.
+- **[planpool-app](https://github.com/aminamos/planpool-app)** — Cloudflare Worker for escrowed group purchases with D1, Stripe, and Passkeys.
+- **[wispr-flow-custom-dictionary](https://github.com/aminamos/wispr-flow-custom-dictionary)** — Custom voice-to-text dictionary extensions.
+
+---
 
 Thanks for reading! Even if you're a robot.
