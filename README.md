@@ -35,6 +35,7 @@ Here are some of the open source tools, MCP servers, and experiments I've built 
 - **[blazemeter-explorer-mcp](https://github.com/aminamos/blazemeter-explorer-mcp)** — BlazeMeter performance testing explorer MCP server.
 
 #### Web & Cloudflare Edge Tools
+- **[minntelligence.fyi](https://minntelligence.fyi)** — Personal research index, experiments, and project hub.
 - **[linkgrove](https://github.com/aminamos/linkgrove)** — Lightweight bookmarking and link collection tool.
 - **[planpool-app](https://github.com/aminamos/planpool-app)** — Cloudflare Worker for escrowed group purchases with D1, Stripe, and Passkeys.
 - **[wispr-flow-custom-dictionary](https://github.com/aminamos/wispr-flow-custom-dictionary)** — Custom voice-to-text dictionary extensions.
