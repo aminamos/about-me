@@ -39,6 +39,7 @@ Here are some of the open source tools, MCP servers, and experiments I've built 
 - **[linkgrove](https://github.com/aminamos/linkgrove)** — Lightweight bookmarking and link collection tool.
 - **[planpool-app](https://github.com/aminamos/planpool-app)** — Cloudflare Worker for escrowed group purchases with D1, Stripe, and Passkeys.
 - **[wispr-flow-custom-dictionary](https://github.com/aminamos/wispr-flow-custom-dictionary)** — Custom voice-to-text dictionary extensions.
+- **[minntelligence-support](https://github.com/aminamos/minntelligence-support)** — Serverless open-source support inbox and chat widget (Cloudflare Worker + D1 + R2 + Email Service). Live at [support.minntelligence.fyi](https://support.minntelligence.fyi).
 
 ---
 
